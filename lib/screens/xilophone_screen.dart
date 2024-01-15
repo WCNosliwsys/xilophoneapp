@@ -26,15 +26,7 @@ class XilophoneHome extends StatelessWidget {
             buildTecla(Colors.pink, 7),
           ],
         )
-        /* Center(
-        child: ElevatedButton(
-            onPressed: () {
-              print("boton presionado");
-              AudioPlayer sonido = AudioPlayer();
-              sonido.play(AssetSource("sounds/note1.wav"));
-            },
-            child: Text("click")),
-      ), */
+
         );
   }
 
